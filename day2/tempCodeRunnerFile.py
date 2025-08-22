@@ -1,1 +1,1 @@
-Write a python code to palin
+ 3 + 
